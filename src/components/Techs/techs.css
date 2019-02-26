@@ -1,0 +1,12 @@
+.techs{
+    width: 40%;
+}
+.tech-container{
+    margin: 20%;
+}
+
+.tech-stuff{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

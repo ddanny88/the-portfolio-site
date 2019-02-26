@@ -1,0 +1,7 @@
+.tortuga-container{
+    width: 100vw;
+    height: 100vh;
+    background: url("https://s3.us-east-2.amazonaws.com/portfolio-demo-site/desktop_tortuga.png");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}

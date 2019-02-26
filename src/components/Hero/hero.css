@@ -1,0 +1,59 @@
+.hero_img{
+    width: 100vw;
+    height: 100vh;
+    background: url("https://s3.us-east-2.amazonaws.com/portfolio-demo-site/hero-img.png");
+    background-size: contain;
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+ul i {
+    color: white;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.contact-info{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+
+}
+.social-list{
+    display: flex;
+}
+.social-list{
+    list-style: none;
+}
+.about-txt{
+    color: white;
+    /* width: 40%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+#sub-title{
+    font-size: 20px;
+    color: #42c5f4;
+
+}
+
+.head-shot{
+    width: 60%;
+}
+.money-shot{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+

@@ -1,0 +1,52 @@
+.first-night-container{
+    display: flex;
+    margin-top: 15%;
+}
+.fno-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 5%;
+
+}
+.phone-view{
+    width: 50vw;
+    height: 100%;
+}
+.tech-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.fno-text{
+    display: flex;
+    flex-direction: column;
+    /* line-height: 2.3 */
+}
+.fno-text p {
+    font-weight: bold;
+}
+.fno-btn{
+    width: 120px;
+    height: 30px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.fno-link{
+    text-decoration: none;
+    color: black;
+}
+
+.show-btn{
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: purple;
+    outline: none;
+}

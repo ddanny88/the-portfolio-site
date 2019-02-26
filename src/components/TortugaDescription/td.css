@@ -1,0 +1,45 @@
+.port-rule{
+    width: 60%;
+    margin: 0 auto;
+    color: gainsboro;
+}
+h2{
+    text-align: center;
+    margin: 5%;
+}
+.content-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+}
+.t-description{
+    font-weight: bold;
+}
+.description{
+    width: 30%;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.t-button{
+    width: 120px;
+    height: 30px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.t-link{
+    text-decoration: none;
+    color: black;
+}
+.champ{
+    margin-top: 20px;
+}
+.mywork{
+    color: #42c5f4
+}

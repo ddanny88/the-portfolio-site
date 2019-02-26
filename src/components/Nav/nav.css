@@ -1,0 +1,32 @@
+.nav-container{
+    width: 100vw;
+    height: 50px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-size: cover;
+    background-size: contain;
+
+}
+.nav-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-right: 20px;
+}
+.my_name{
+    width: 15%;
+    height: 80%;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.list_item{
+    margin: 20px;
+    cursor: pointer;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+}
